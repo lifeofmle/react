@@ -1,6 +1,7 @@
 'use strict';
 
 /* eslint-disable no-for-of-loops/no-for-of-loops */
+/* good */
 
 const {writeFileSync} = require('fs');
 const path = require('path');
